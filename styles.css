@@ -1,0 +1,18 @@
+body {
+  background-color: rgba(237, 240, 222, 0.628);
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+ul {
+    font-size: 20px;
+}
+
+img {
+    height: 300px;
+    width: auto;
+}
